@@ -12,7 +12,7 @@ const covid19ImpactEstimator = (data) => {
         reportedCases: 674,
         population: 66622705,
         totalHospitalBeds: 1380614
-        }
-}
+        };
+};
 
 export default covid19ImpactEstimator;
